@@ -97,26 +97,31 @@
     "bearing": -60.0659370316888
     }
     ],
-    "dummyData2":{
-        "total": 3,
-        "data": [
-        {
-        "lat": 12.9802347063322,
-        "lng": 77.5907760360903,
-        "id": "stop1"
-        },
-        {
-        "lat": 12.9787501361417,
-        "lng": 77.5917845466407,
-        "id": "stop2"
-        },
-        {
-        "lat": 12.9771191896563,
-        "lng": 77.5857120256672,
-        "id": "stop3"
-        }
-        ]
-        }
-
+{
+  "dummyData2": {
+    "total": 3,
+    "data": [
+      {
+        "lat": 12.9715987,
+        "lng": 77.5945627,
+        "id": "stop1",
+        "name": "MG Road Metro Station",
+        "description": "A busy metro station located in the heart of Bangalore."
+      },
+      {
+        "lat": 12.9731652,
+        "lng": 77.6093147,
+        "id": "stop2",
+        "name": "Ulsoor Lake",
+        "description": "A scenic stop near the famous Ulsoor Lake."
+      },
+      {
+        "lat": 12.9659786,
+        "lng": 77.6101166,
+        "id": "stop3",
+        "name": "Indiranagar 100 Feet Road",
+        "description": "A major commercial area with many restaurants and shops."
+      }
+    ]
+  }
 }
-    
